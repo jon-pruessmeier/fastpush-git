@@ -15,8 +15,8 @@
     "push",
     "script"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "jon-pruessmeier",
+  "license": "MIT",
   "devDependencies": {
     "prettier": "^2.8.8"
   }
