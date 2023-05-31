@@ -19,5 +19,9 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^2.8.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jon-pruessmeier/fastpush-git"
   }
 }
