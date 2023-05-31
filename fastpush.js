@@ -32,4 +32,5 @@ async function fastpush() {
   }
 }
 
+//initialise command
 fastpush();
