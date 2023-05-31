@@ -1,12 +1,23 @@
 {
   "name": "fastpush-git",
   "version": "1.0.0",
-  "description": "",
+  "description": "A global script for fast git push",
+  "bin": {
+    "fpg": "./index.js"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write ."
   },
-  "keywords": [],
+  "keywords": [
+    "git",
+    "push",
+    "script"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
 }
